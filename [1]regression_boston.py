@@ -1,4 +1,18 @@
-# import necessaty modules etc
+# Ali Behfarnia
+# Created 2018, Editted 09/2024
+# Simple ML Regression
+
+# Problem Definition:
+# The purpose of this programming assignment is to write simple python
+# codes for training Machine Learning model and predicting housing prices.
+# The data contains the owner-occupied home prices in the Boston area during 1970s. 
+# The dataset has 506 rows and 14 columns. The last column contains the median value 
+# of owner-occupied homes in $1000’s (this is the response variable y for regression 
+# problem). The first 13 columns represent various attributes /features, for example, 
+# per capita crime rate by town, average number of rooms per dwelling, index of 
+# accessibility to radial highways, pupil-teacher ratio by town etc.
+
+
 
 import pandas as pd
 import numpy as np
